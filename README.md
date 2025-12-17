@@ -38,7 +38,7 @@ Folder: `Credit Score`
 
 ---
 
-### 🔹 Task 3: Handwritten Character Recognition
+### 🔹 Task 2: Handwritten Character Recognition
 **Objective:**  
 Recognize handwritten digits from images.
 
@@ -61,7 +61,7 @@ Recognize handwritten digits from images.
 
 ---
 
-### 🔹 Task 4: Disease Prediction from Medical Data
+### 🔹 Task 3: Disease Prediction from Medical Data
 **Objective:**  
 Predict the possibility of disease based on patient medical data.
 
@@ -101,3 +101,4 @@ Folder: `disease Prediction`
 1. Clone the repository:
 ```bash
 git clone https://github.com/hanna-004/CodeAlpha_Internship.git
+
